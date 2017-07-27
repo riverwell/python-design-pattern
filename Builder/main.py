@@ -33,8 +33,8 @@ def main():
 
 
 def usage():
-    print("Usage: python3 main.py plain            プレーンテキストで文章を作成")
-    print("Usage: python3 main.py html            HTMLで文章を作成")
+    print("Usage: python3 composite.py plain            プレーンテキストで文章を作成")
+    print("Usage: python3 composite.py html            HTMLで文章を作成")
 
 
 if __name__ == "__main__":
